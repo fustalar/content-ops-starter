@@ -466,7 +466,7 @@ sections:
         text: |
           World Bank statistics combined with the power of AI
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Pixel_cooked_egg_tiny.png
           altText: Placeholder Image
           styles:
             self:
