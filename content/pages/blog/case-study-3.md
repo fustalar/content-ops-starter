@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: Don't waste
         tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
           Don't waste your valuable time on tasks beneath your skill level.
