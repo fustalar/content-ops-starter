@@ -349,14 +349,13 @@ sections:
     subtitle: My vision
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “In a world where innovation drives success, I want to empower every
+          individual and organization to turn their imaginative ideas into
+          reality through the power of AI. I envision a future where the limits
+          of technological creativity are boundless and accessible to all.”
+        tagline: 'What you can imagine, you can create'
+        subtitle: Cooked egg
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
