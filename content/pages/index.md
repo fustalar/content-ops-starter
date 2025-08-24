@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Introducing what I do
+      label: INTRO
       color: text-primary
       type: Badge
     elementId: ''
