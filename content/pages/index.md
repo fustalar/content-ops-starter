@@ -206,7 +206,7 @@ sections:
         tagline: Feature 2
         subtitle: ''
         text: |
-          Send me a message!
+          Send me a message using the contact form below.
         image:
           type: ImageBlock
           url: /images/Pixel_boiled_egg_fit.png
