@@ -90,6 +90,7 @@ sections:
             self:
               borderRadius: small
               borderWidth: 4
+              borderColor: border-light
       - title: 3x
         subtitle: Accelerate delivery by 3x
         text: |
