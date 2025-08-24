@@ -29,9 +29,8 @@ bottomSections:
       - title: About Company
         tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Don't struggle with manual labor that you are to expensive for to do,
+          but rather, use tools that can make your life easier.
         image:
           url: /images/telus-logo.svg
           altText: Company logo
