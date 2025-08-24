@@ -87,7 +87,7 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-\*\*Transforming how you interact with Laws and Regulations with AI Chat Agent\*\*
+\*\*Transforming how you interact with Laws and Regulations with AI Chat Agent
 
 Navigating through complex Laws and Regulations and staying informed with current regulations has never been easier. Introducing the innovative AI Chat Agent, exclusively designed to interact with users by referencing established legal frameworks such as the Dutch Civil Code. This state-of-the-art tool promises not only efficiency but also unparalleled reliability in providing legal insights.
 
