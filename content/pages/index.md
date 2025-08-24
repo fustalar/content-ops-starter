@@ -546,7 +546,7 @@ sections:
     items:
       - title: World Bank Data Insights
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Randomly generate Insights based on World Bank Data
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
