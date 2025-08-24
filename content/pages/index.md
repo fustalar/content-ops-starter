@@ -255,7 +255,7 @@ sections:
     items:
       - title: "“I envision a future where innovation drives success, and I want to empower every individual and organization to turn their imaginative ideas into reality through the power of AI.\_”"
         tagline: 'What you can imagine, you can create'
-        subtitle: THE AUTHOR
+        subtitle: Fatih Ustalar (owner)
         text: ''
         image:
           url: /images/person-placeholder-light.png
