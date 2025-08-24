@@ -548,7 +548,7 @@ sections:
         tagline: This is the tagline
         subtitle: Randomly generate Insights based on World Bank Data
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          World statistics combined with the power of AI
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
