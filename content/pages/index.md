@@ -721,15 +721,14 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Let's talk
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      I'd love to hear from you! Whether you have a question, an idea to share,
+      or just want to say hello, feel free to reach out. I'll get back to you as
+      soon as possible.
     media:
       fields:
         - name: name
@@ -774,7 +773,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contact me
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
