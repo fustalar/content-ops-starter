@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: Cracked egg
-        tagline: This is the tagline
+        tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
           This is one of the first project I've worked on. And... it simply
           works!
