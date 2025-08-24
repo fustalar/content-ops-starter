@@ -354,7 +354,7 @@ sections:
           reality through the power of AI. I envision a future where the limits
           of technological creativity are boundless and accessible to all.”
         tagline: 'What you can imagine, you can create'
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Fatih Ustalar,'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
