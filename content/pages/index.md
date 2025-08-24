@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/BB9EA18F-0637-4809-ABA4-5B8D81D57FE5.png
+      url: /images/Screenshot 2025-08-24 141207_1.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -163,7 +163,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Case studies
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -213,6 +213,47 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Case studies
+        tagline: Feature 2
+        subtitle: What you can expect
+        text: >
+          I'm continuously building and will add new case studies over time.
+          Keep an eye on this section!
+        image:
+          type: ImageBlock
+          url: /images/Pixel_boiled_egg_fit.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pb-0
+              margin:
+                - mt-2
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
