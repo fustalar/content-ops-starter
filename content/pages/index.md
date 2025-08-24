@@ -725,11 +725,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      I'd love to hear from you! Whether you have a question, an idea to share,
+      or just want to say hello, feel free to reach out. I'll get back to you as
+      soon as possible.
     media:
       fields:
         - name: name
