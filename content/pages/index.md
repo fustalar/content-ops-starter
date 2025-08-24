@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: 'Cut friction, unlock speed, scale effortlessly'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I build AI agents to streamline repetitive tasks, connect tools, and
+      remove bottlenecks. The result: faster execution, smoother workflows, and
+      the freedom to focus on what really matters most.
     actions:
       - label: Get started
         altText: ''
