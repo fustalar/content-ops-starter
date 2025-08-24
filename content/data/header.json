@@ -21,14 +21,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Fatih Ustalar",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Case studies",
             "altText": "Blog",
             "url": "/blog",
