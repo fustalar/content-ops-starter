@@ -1,8 +1,24 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Pixel_boiled_egg_fit.png",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "padding": [
+                    "pl-0",
+                    "pr-0",
+                    "pt-0",
+                    "pb-0"
+                ],
+                "margin": [
+                    "mt-4",
+                    "ml-4",
+                    "mb-4",
+                    "mr-4"
+                ]
+            }
+        }
     },
     "text": "A description of your brand",
     "primaryLinks": {
@@ -16,38 +32,13 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "COMPANY",
         "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
             {
                 "label": "Blog",
                 "url": "/blog",
@@ -91,7 +82,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

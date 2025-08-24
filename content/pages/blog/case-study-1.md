@@ -30,8 +30,8 @@ bottomSections:
         tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
           This is one of the first project I've worked on. And... it simply
-          works! Let me know if you would like to know more about by contacting
-          me.
+          works! Let me know if you would like to know more about it by
+          contacting me.
         image:
           url: /images/Pixel_boiled_egg_fit.png
           altText: Company logo
