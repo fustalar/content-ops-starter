@@ -270,7 +270,7 @@ sections:
           reality through the power of AI. I envision a future where the limits
           of technological creativity are boundless and accessible to all.”
         tagline: 'What you can imagine, you can create'
-        subtitle: Cooked egg
+        subtitle: THE AUTHOR
         text: ''
         image:
           url: /images/person-placeholder-light.png
