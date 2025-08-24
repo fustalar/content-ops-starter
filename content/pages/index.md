@@ -447,7 +447,9 @@ sections:
     items:
       - title: World Bank Data Insights
         tagline: Spotlight
-        subtitle: World Bank statistics combined with the power AI
+        subtitle: >-
+          Combine World Bank Data with the power of AI and you'll have access to
+          interesting facts!
         text: ''
         image:
           url: /images/Pixel_boiled_egg_tinyfit.png
