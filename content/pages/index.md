@@ -53,13 +53,13 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key benefits
+      text: Grow your business 10x faster
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Here are some numbers
+    subtitle: Key benefits
     items:
       - type: FeaturedItem
         title: 20%
@@ -298,42 +298,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -536,19 +500,19 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Featured case studies
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Some ideas I've been working on
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: World Bank Data Insights
+        tagline: Spotlight
+        subtitle: Randomly generate Insights based on World Bank Data
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          World Bank statistics combined with the power of AI
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -567,11 +531,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: ''
+        tagline: Spotlight
+        subtitle: Shopify integration
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Automation of several back-end processes of e-commerce business.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -590,20 +554,23 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+      - type: FeaturedItem
+        title: 500k
+        subtitle: Numbers Done
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
           styles:
             self:
               borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
+        actions: []
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -612,8 +579,9 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:

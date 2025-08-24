@@ -1,5 +1,5 @@
 ---
-title: Business AI Assistent
+title: Business queries AI Assistant
 slug: case-study-2
 date: '2025-08-17'
 excerpt: >-
