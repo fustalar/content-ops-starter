@@ -569,7 +569,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: Spotlight
-        subtitle: FS analyzer
+        subtitle: Shopify integration
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
