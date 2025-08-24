@@ -13,7 +13,7 @@ sections:
       remove bottlenecks. The result: faster execution, smoother workflows, and
       the freedom to focus on what really matters most.
     actions:
-      - label: Get started
+      - label: Learn more
         altText: ''
         url: /
         showIcon: false
