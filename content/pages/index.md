@@ -545,7 +545,7 @@ sections:
     subtitle: I'll be working on the following case studies
     items:
       - title: World Bank Data Insights
-        tagline: This is the tagline
+        tagline: Spotlight
         subtitle: Randomly generate Insights based on World Bank Data
         text: |
           World Bank statistics combined with the power of AI
