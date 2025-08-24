@@ -592,7 +592,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Shopify integration
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
