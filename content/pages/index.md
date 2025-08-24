@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Here are some numbers
+    subtitle: Key benefits
     items:
       - type: FeaturedItem
         title: 20%
