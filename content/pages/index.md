@@ -571,7 +571,7 @@ sections:
         tagline: Spotlight
         subtitle: Shopify integration
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Automation of several back-end processes of e-commerce business.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
