@@ -94,7 +94,7 @@ sections:
         text: |
           Automate workflows and cut time-to-production from weeks to days.
         image:
-          url: /images/icon2.svg
+          url: /images/Pixel_boiled_egg_tinyfit.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
