@@ -202,12 +202,11 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: In the pipeline
+        title: Interested?
         tagline: Feature 2
-        subtitle: What you can expect
-        text: >
-          I will add new case studies over time. Keep an eye on this section!
-          ;-)
+        subtitle: ''
+        text: |
+          Send me a message using the contact form below.
         image:
           type: ImageBlock
           url: /images/Pixel_boiled_egg_fit.png
@@ -240,16 +239,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
