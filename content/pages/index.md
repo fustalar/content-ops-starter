@@ -232,6 +232,8 @@ sections:
               borderRadius: medium
               padding:
                 - pb-0
+              margin:
+                - mt-2
         actions: []
         colors: bg-dark-fg-light
         styles:
