@@ -471,7 +471,9 @@ sections:
         type: FeaturedItem
       - title: Shopify
         tagline: Spotlight
-        subtitle: Automation of several back-end processes for e-commerce businesses.
+        subtitle: >-
+          Automate several back-end processes for e-commerce businesses so you
+          can focus on selling.
         text: ''
         image:
           url: /images/Pixel_boiled_egg_tinyfit.png
