@@ -346,7 +346,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: My vision vision
+    subtitle: My vision
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
