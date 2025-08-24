@@ -105,6 +105,7 @@ sections:
                 - pl-0
                 - pb-0
                 - pr-0
+              borderRadius: small
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
