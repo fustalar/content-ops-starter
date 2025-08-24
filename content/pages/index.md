@@ -205,9 +205,8 @@ sections:
         title: Interested?
         tagline: Feature 2
         subtitle: ''
-        text: >
-          I will add new case studies over time. Keep an eye on this section!
-          ;-)
+        text: |
+          Send me a message!
         image:
           type: ImageBlock
           url: /images/Pixel_boiled_egg_fit.png
