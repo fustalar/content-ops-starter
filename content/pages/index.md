@@ -485,8 +485,7 @@ sections:
       - title: Shopify
         tagline: Spotlight
         subtitle: Shopify integration
-        text: |
-          Automation of several back-end processes of e-commerce business.
+        text: ''
         image:
           url: /images/Pixel_boiled_egg_tinyfit.png
           altText: Placeholder image
