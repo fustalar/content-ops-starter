@@ -88,7 +88,7 @@ sections:
           url: /images/Pixel_boiled_egg_tinyfit.png
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: small
       - title: 3x
         subtitle: Accelerate delivery by 3x
         text: |
