@@ -29,8 +29,9 @@ bottomSections:
       - title: About Company
         tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
-          Don't struggle with manual labor that you are to expensive for to do,
-          but rather, use tools that can make your life easier.
+          Don't waste your valuable time on tasks beneath your skill level.
+          Instead, leverage tools that simplify your workload and enhance
+          efficiency.
         image:
           url: /images/telus-logo.svg
           altText: Company logo
