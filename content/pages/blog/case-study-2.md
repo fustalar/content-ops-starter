@@ -27,13 +27,13 @@ bottomSections:
     type: DividerSection
   - items:
       - title: About Company
-        tagline: This is the tagline
+        tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
           auctor sapien.
         image:
-          url: /images/telus-logo.svg
+          url: /images/Pixel_boiled_egg_fit.png
           altText: Company logo
           styles:
             self:
