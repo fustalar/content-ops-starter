@@ -180,25 +180,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -206,7 +187,7 @@ sections:
         tagline: Feature 2
         subtitle: ''
         text: |
-          Send me a message using the contact form below.
+          Check out some of the amazing stuff I've built ;-)
         image:
           type: ImageBlock
           url: /images/Pixel_boiled_egg_fit.png
@@ -239,6 +220,25 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -253,11 +253,7 @@ sections:
     title: null
     subtitle: My vision
     items:
-      - title: >-
-          “In a world where innovation drives success, I want to empower every
-          individual and organization to turn their imaginative ideas into
-          reality through the power of AI. I envision a future where the limits
-          of technological creativity are boundless and accessible to all.”
+      - title: "“I envision a future where innovation drives success, and I want to empower every individual and organization to turn their imaginative ideas into reality through the power of AI.\_”"
         tagline: 'What you can imagine, you can create'
         subtitle: THE AUTHOR
         text: ''
