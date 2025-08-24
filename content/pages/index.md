@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key benefits
+      text: Grow your business 10x faster
       color: text-dark
       styles:
         self:
