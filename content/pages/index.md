@@ -202,7 +202,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Want help?
+        title: Interested?
         tagline: Feature 2
         subtitle: ''
         text: >
