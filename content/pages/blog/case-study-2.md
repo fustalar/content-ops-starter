@@ -29,9 +29,9 @@ bottomSections:
       - title: 24/7 service
         tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Agents can be trained with your company specific terms and conditions
+          and other information, and will respond 24/7 in a way that reflects
+          the company.
         image:
           url: /images/Pixel_boiled_egg_fit.png
           altText: Company logo
