@@ -95,7 +95,7 @@ sections:
           Automate workflows and cut time-to-production from weeks to days.
         image:
           url: /images/Pixel_boiled_egg_tinyfit.png
-          altText: Featured icon two
+          altText: Lightning bolt symbol on red background
           elementId: ''
           type: ImageBlock
         actions: []
