@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Just some facts
+    subtitle: Here are some numbers
     items:
       - type: FeaturedItem
         title: 20%
