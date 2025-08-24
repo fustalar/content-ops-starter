@@ -569,7 +569,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: Spotlight
-        subtitle: This is the item subtitle
+        subtitle: LinkedIn
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
