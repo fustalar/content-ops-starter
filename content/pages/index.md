@@ -567,7 +567,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: PDF Summary
+      - title: PDF Blinks
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
