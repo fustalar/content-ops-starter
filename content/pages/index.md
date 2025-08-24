@@ -569,7 +569,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: Spotlight
-        subtitle: LinkedIn
+        subtitle: World Bank Data Insights
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
