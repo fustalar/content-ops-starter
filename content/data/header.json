@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Case studies",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
