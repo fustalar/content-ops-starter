@@ -253,11 +253,7 @@ sections:
     title: null
     subtitle: My vision
     items:
-      - title: >-
-          “In a world where innovation drives success, I want to empower every
-          individual and organization to turn their imaginative ideas into
-          reality through the power of AI. I envision a future where the limits
-          of technological creativity are boundless and accessible to all.”
+      - title: "“I envision a future\_In a world where innovation drives success, I want to empower every individual and organization to turn their imaginative ideas into reality through the power of AI.\_”"
         tagline: 'What you can imagine, you can create'
         subtitle: THE AUTHOR
         text: ''
