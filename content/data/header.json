@@ -21,14 +21,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Fatih Ustalar",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Case studies",
             "altText": "Blog",
             "url": "/blog",
@@ -51,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Benefits",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -59,7 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Featured cases",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",

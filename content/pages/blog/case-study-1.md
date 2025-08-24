@@ -26,14 +26,14 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: AI Chat Agent
+        tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          This is one of the first project I've worked on. And... it simply
+          works! Let me know if you would like to know more about by contacting
+          me.
         image:
-          url: /images/telus-logo.svg
+          url: /images/Pixel_boiled_egg_fit.png
           altText: Company logo
           styles:
             self:
@@ -87,15 +87,26 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+**Transforming how you interact with Laws and Regulations with AI Chat Agent**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Navigating through complex Laws and Regulations and staying informed with current regulations has never been easier. Introducing the innovative AI Chat Agent, exclusively designed to interact with users by referencing established legal frameworks such as the Dutch Civil Code. This state-of-the-art tool promises not only efficiency but also unparalleled reliability in providing legal insights.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+**What the tool does**
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+AI chat agent revolutionizes the way you access and use Laws and Regulations. By engaging in real-time, interactive chats, it delivers precise answers strictly based on the database of laws and regulations. This ensures that users have access to trustworthy information that reflects the current legal landscape.
 
-![](/images/img-placeholder.svg)
+**Key Benefits**
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+1.  **High Reliability:** Every answer is sourced directly from verified Laws and Regulation (based on your preferred source), offering users a dependable and trustworthy experience.
+
+2.  **Significant Time Savings:** Eliminate the need for manual searches through vast legal documents. Access the required information instantly, streamlining your workflow.
+
+3.  **Cost Efficiency:** Save on legal research costs by utilizing an AI agent, which provides immediate and accurate responses without the need for extensive consultation.
+
+4.  **User-Friendly Interface:** Engage with AI through an interface identical to OpenAI's, providing a seamless and intuitive user experience.
+
+5.  **Continuous Updates:** As laws and regulations evolve, AI chat agent is consistently updated, ensuring you're always informed with the most current legal information.
+
+Whether you're a seasoned legal expert or someone new to the field, AI chat agent is here to elevate your research experience. Trust in technology that not only adapts to your needs but also empowers you with knowledge.
+
+Discover the next level of legal assistance today and let AI chat agent be your guide in the complex world of laws and regulations. Experience firsthand the benefits of precision and efficiency in legal research.
