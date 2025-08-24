@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: Cracked egg
+      - title: AI Chat Agent
         tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
           This is one of the first project I've worked on. And... it simply
