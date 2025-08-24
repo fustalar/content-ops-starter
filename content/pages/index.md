@@ -505,12 +505,11 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Ideas?
+        subtitle: Share your ideas
+        text: >
+          If you have an idea, please share this with me through the contact
+          form.
         image:
           type: ImageBlock
           url: /images/icon1.svg
