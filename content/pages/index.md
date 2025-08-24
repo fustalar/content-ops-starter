@@ -544,7 +544,7 @@ sections:
       type: TitleBlock
     subtitle: I'll be working on the following case studies
     items:
-      - title: LinkedIn Post Generator
+      - title: World Bank Data Insights
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
