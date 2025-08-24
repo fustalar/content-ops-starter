@@ -98,6 +98,13 @@ sections:
           altText: Lightning bolt symbol on red background
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              padding:
+                - pt-2
+                - pl-2
+                - pb-2
+                - pr-2
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
