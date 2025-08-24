@@ -206,8 +206,8 @@ sections:
         tagline: Feature 2
         subtitle: What you can expect
         text: >
-          I'm continuously building and will add new case studies over time.
-          Keep an eye on this section!
+          I'm continuously building (if not sleeping of working ;-)) and will
+          add new case studies over time. Keep an eye on this section!
         image:
           type: ImageBlock
           url: /images/Pixel_boiled_egg_fit.png
