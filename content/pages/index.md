@@ -144,7 +144,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: MORE INTRO
+      label: WHY IT MATTERS
       color: text-primary
       styles:
         self:
