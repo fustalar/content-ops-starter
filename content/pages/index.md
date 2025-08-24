@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/BB9EA18F-0637-4809-ABA4-5B8D81D57FE5.png
+      url: /images/Screenshot 2025-08-24 141207_1.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
