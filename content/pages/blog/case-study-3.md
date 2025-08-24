@@ -26,12 +26,12 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: Don't waste
+        tagline: MESSAGE FROM THE AUTHOR
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Don't waste your valuable time on tasks beneath your skill level.
+          Instead, leverage tools that simplify your workload and enhance
+          efficiency.
         image:
           url: /images/telus-logo.svg
           altText: Company logo
