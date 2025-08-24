@@ -33,7 +33,7 @@ bottomSections:
           Instead, leverage tools that simplify your workload and enhance
           efficiency.
         image:
-          url: /images/telus-logo.svg
+          url: /images/Pixel_boiled_egg_fit.png
           altText: Company logo
           styles:
             self:
