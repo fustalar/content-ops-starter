@@ -29,9 +29,8 @@ bottomSections:
       - title: Cracked egg
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          This is one of the first project I've worked on. And... it simply
+          works!
         image:
           url: /images/Pixel_boiled_egg_fit.png
           altText: Company logo
