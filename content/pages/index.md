@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Introducing AI AGENTS
+      label: Introducing what I do
       color: text-primary
       type: Badge
     elementId: ''
