@@ -447,7 +447,9 @@ sections:
     items:
       - title: World Bank Data Insights
         tagline: Spotlight
-        subtitle: World Bank statistics combined with the power AI
+        subtitle: >-
+          Combine World Bank Data with the power of AI and you'll have access to
+          interesting facts!
         text: ''
         image:
           url: /images/Pixel_boiled_egg_tinyfit.png
@@ -469,7 +471,9 @@ sections:
         type: FeaturedItem
       - title: Shopify
         tagline: Spotlight
-        subtitle: Automation of several back-end processes of e-commerce business
+        subtitle: >-
+          Automate several back-end processes for e-commerce businesses so you
+          can focus on selling.
         text: ''
         image:
           url: /images/Pixel_boiled_egg_tinyfit.png
