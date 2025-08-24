@@ -569,7 +569,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: Spotlight
-        subtitle: World Bank Data Insights
+        subtitle: Financial statements analyzer
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
