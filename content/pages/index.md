@@ -204,7 +204,7 @@ sections:
       - type: FeaturedItem
         title: Like what you see?
         tagline: Feature 2
-        subtitle: What you can expect
+        subtitle: ''
         text: >
           I will add new case studies over time. Keep an eye on this section!
           ;-)
