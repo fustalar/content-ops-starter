@@ -542,7 +542,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: I'll be working on the following case studies
     items:
       - title: Feature Item One
         tagline: This is the tagline
