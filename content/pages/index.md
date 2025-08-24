@@ -462,7 +462,7 @@ sections:
     items:
       - title: World Bank Data Insights
         tagline: Spotlight
-        subtitle: Randomly generate Insights based on World Bank Data
+        subtitle: World Bank statistics combined with the power AI
         text: |
           World Bank statistics combined with the power of AI
         image:
