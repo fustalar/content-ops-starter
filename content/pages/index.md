@@ -65,8 +65,8 @@ sections:
         title: 20%
         subtitle: Save up to 20% of your working hours
         text: >
-          Studies show AI tools save professionals \~1 hour per day, freeing
-          time for what what really matters.
+          Studies show AI tools save professionals \~1 hour per day, freeing up
+          time for strategy and creativity.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
