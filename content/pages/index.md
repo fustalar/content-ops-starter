@@ -202,7 +202,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Case studies
+        title: In the pipline
         tagline: Feature 2
         subtitle: What you can expect
         text: >
