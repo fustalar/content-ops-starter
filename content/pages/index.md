@@ -89,6 +89,7 @@ sections:
           styles:
             self:
               borderRadius: small
+              borderWidth: 4
       - title: 3x
         subtitle: Accelerate delivery by 3x
         text: |
