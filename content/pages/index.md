@@ -224,7 +224,7 @@ sections:
           Keep an eye on this section!
         image:
           type: ImageBlock
-          url: /images/Pixel_cooked_egg_tiny.png
+          url: /images/Pixel_boiled_egg_fit.png
           altText: Business consulting
           elementId: ''
           styles:
