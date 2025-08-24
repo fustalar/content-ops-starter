@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 20%
-        subtitle: Hours
+        subtitle: Save up to 20% of your working hours
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
