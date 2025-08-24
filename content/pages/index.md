@@ -219,10 +219,9 @@ sections:
         title: Case studies
         tagline: Feature 2
         subtitle: What you can expect
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I'm continuously building and will add new case studies over time.
+          Keep an eye on this section!
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
