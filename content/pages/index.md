@@ -507,10 +507,9 @@ sections:
       - type: FeaturedItem
         title: Ideas?
         subtitle: Share your ideas
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          If you have an idea, please share this with me through the contact
+          form.
         image:
           type: ImageBlock
           url: /images/icon1.svg
