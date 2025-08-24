@@ -542,7 +542,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: I'll be working on the following case studies
+    subtitle: Some ideas I've been working on
     items:
       - title: World Bank Data Insights
         tagline: Spotlight
