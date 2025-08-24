@@ -117,7 +117,7 @@ sections:
         text: |
           Agents execute with precision, lowering manual mistakes and rework.
         image:
-          url: /images/icon3.svg
+          url: /images/Pixel_boiled_egg_tinyfit.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
