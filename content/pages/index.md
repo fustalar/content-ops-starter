@@ -64,10 +64,9 @@ sections:
       - type: FeaturedItem
         title: 20%
         subtitle: Save up to 20% of your working hours
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Studies show AI tools save professionals \~1 hour per day, freeing
+          time for what what really matters.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
