@@ -567,7 +567,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Automatic PDF scraper
+      - title: PDF Summary
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
