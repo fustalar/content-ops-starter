@@ -489,7 +489,7 @@ sections:
         text: |
           Automation of several back-end processes of e-commerce business.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Pixel_boiled_egg_tinyfit.png
           altText: Placeholder image
           styles:
             self:
