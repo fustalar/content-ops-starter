@@ -107,6 +107,7 @@ sections:
                 - pr-0
               borderRadius: small
               borderColor: border-light
+              borderWidth: 4
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
