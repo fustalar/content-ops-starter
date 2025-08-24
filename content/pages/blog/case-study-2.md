@@ -1,5 +1,5 @@
 ---
-title: AI assist
+title: AI assistant
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
