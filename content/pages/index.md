@@ -206,8 +206,8 @@ sections:
         tagline: Feature 2
         subtitle: What you can expect
         text: >
-          I'm continuously building and will add new case studies over time.
-          Keep an eye on this section!
+          I will add new case studies over time. Keep an eye on this section!
+          ;-)
         image:
           type: ImageBlock
           url: /images/Pixel_boiled_egg_fit.png
@@ -270,7 +270,7 @@ sections:
           reality through the power of AI. I envision a future where the limits
           of technological creativity are boundless and accessible to all.”
         tagline: 'What you can imagine, you can create'
-        subtitle: Cooked egg
+        subtitle: THE AUTHOR
         text: ''
         image:
           url: /images/person-placeholder-light.png
