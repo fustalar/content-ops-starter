@@ -85,19 +85,31 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Pixel_boiled_egg_tinyfit.png
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: small
+              borderWidth: 4
+              borderColor: border-light
       - title: 3x
         subtitle: Accelerate delivery by 3x
         text: |
           Automate workflows and cut time-to-production from weeks to days.
         image:
-          url: /images/icon2.svg
-          altText: Featured icon two
+          url: /images/Pixel_boiled_egg_tinyfit.png
+          altText: Lightning bolt symbol on red background
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+              borderRadius: small
+              borderColor: border-light
+              borderWidth: 4
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -117,10 +129,15 @@ sections:
         text: |
           Agents execute with precision, lowering manual mistakes and rework.
         image:
-          url: /images/icon3.svg
+          url: /images/Pixel_boiled_egg_tinyfit.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              borderRadius: small
+              borderWidth: 4
+              borderColor: border-light
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:

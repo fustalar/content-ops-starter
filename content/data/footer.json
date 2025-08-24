@@ -16,7 +16,8 @@
                     "ml-4",
                     "mb-4",
                     "mr-4"
-                ]
+                ],
+                "borderRadius": "small"
             }
         }
     },
