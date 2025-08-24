@@ -101,10 +101,10 @@ In the fast-paced business world, efficient communication is key. Introducing AI
 
 4.  **24/7 availability:** Never miss a beat with the AI agent's round-the-clock service. Your customers can connect anytime, anywhere, enhancing accessibility and satisfaction.
 
-5.  **Efficiently scale support:** As your business grows, so does the demand for customer service. Our AI agent scales effortlessly, handling increased inquiries with ease and effectiveness.
+5.  **Efficiently scale support:** As your business grows, so does the demand for customer service. The AI agent scales effortlessly, handling increased inquiries with ease and effectiveness.
 
 6.  **Reduce operational costs:** Cut down on overheads with automated interactions. Redirect resources to strategic areas of your business while maintaining a high standard of customer support.
 
-Empower your business with an AI agent that transforms how you engage with clients. Enhance customer satisfaction, streamline operations, and uphold the integrity of your brand—all with our intelligent solution.
+Empower your business with an AI agent that transforms how you engage with clients. Enhance customer satisfaction, streamline operations, and uphold the integrity of your brand—all with an intelligent solution.
 
-Experience the future of customer interaction today with our AI agent, and elevate your service to new heights!
+Experience the future of customer interaction today with the AI agent, and elevate your service to new heights!
