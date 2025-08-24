@@ -250,54 +250,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -510,11 +462,10 @@ sections:
     items:
       - title: World Bank Data Insights
         tagline: Spotlight
-        subtitle: Randomly generate Insights based on World Bank Data
-        text: |
-          World Bank statistics combined with the power of AI
+        subtitle: World Bank statistics combined with the power AI
+        text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Pixel_boiled_egg_tinyfit.png
           altText: Placeholder Image
           styles:
             self:
@@ -531,13 +482,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: ''
+      - title: Shopify
         tagline: Spotlight
-        subtitle: Shopify integration
-        text: |
-          Automation of several back-end processes of e-commerce business.
+        subtitle: Automation of several back-end processes of e-commerce business
+        text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Pixel_boiled_egg_tinyfit.png
           altText: Placeholder image
           styles:
             self:
