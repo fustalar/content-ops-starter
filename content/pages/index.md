@@ -216,7 +216,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: Case studies
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
