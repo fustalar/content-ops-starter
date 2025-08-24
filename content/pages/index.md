@@ -13,7 +13,7 @@ sections:
       remove bottlenecks. The result: faster execution, smoother workflows, and
       the freedom to focus on what really matters most.
     actions:
-      - label: Get started
+      - label: Learn more
         altText: ''
         url: /
         showIcon: false
@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: See case studies
         altText: ''
         url: /
         showIcon: true
@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Introducing what I do
+      label: INTRO
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +53,20 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Key benefits
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Here are some numbers
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 20%
+        subtitle: Save up to 20% of your working hours
+        text: >
+          Studies show AI tools save professionals \~1 hour per day, freeing up
+          time for strategy and creativity.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +89,10 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 3x
+        subtitle: Accelerate delivery by 3x
+        text: |
+          Automate workflows and cut time-to-production from weeks to days.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +112,10 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 70%
+        subtitle: Reduce errors by up to 70%
+        text: |
+          Agents execute with precision, lowering manual mistakes and rework.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -149,7 +144,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: WHY IT MATTERS
       color: text-primary
       styles:
         self:
