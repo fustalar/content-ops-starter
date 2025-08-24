@@ -482,7 +482,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: ''
+      - title: Shopify
         tagline: Spotlight
         subtitle: Shopify integration
         text: |
