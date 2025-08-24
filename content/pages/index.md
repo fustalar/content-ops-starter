@@ -114,10 +114,8 @@ sections:
         type: FeaturedItem
       - title: 70%
         subtitle: Reduce errors by up to 70%
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Agents execute with precision, lowering manual mistakes and rework.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
