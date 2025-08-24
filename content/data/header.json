@@ -1,17 +1,27 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/Pixel_cooked_egg_tiny.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-0",
+                    "mb-0"
+                ],
+                "padding": [
+                    "pl-0",
+                    "pt-0",
+                    "pb-0",
+                    "pr-0"
+                ],
+                "borderWidth": 0
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Fatih Ustalar",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +29,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Case studies",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +38,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Contact me",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,7 +47,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Other",
             "altText": "Dropdown",
             "links": [
                 {
