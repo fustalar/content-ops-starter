@@ -2,7 +2,14 @@
     "logo": {
         "url": "/images/Pixel_boiled_egg_tinyfit.png",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "padding": [
+                    "pl-2"
+                ]
+            }
+        }
     },
     "text": "A description of your brand",
     "primaryLinks": {
